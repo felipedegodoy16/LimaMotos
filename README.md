@@ -1,2 +1,2 @@
 # LimaMotos
-Site que criri para a loja Lima Motos
+Site que criei para a loja Lima Motos
