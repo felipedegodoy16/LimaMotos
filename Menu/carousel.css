@@ -8,10 +8,9 @@ body {
     color: #5a5a5a;
   }
   
-  
   /* CUSTOMIZA O CAROUSEL
   -------------------------------------------------- */
-  
+
   /* Classe base do carousel */
   .carousel {
     margin-bottom: 4rem;
@@ -26,7 +25,7 @@ body {
   /* Declaramos alturas, devido ao posicionamento do elemento img */
   .carousel-item {
     height: 32rem;
-    background-color: #777;
+    
   }
   .carousel-item > img {
     position: absolute;
@@ -35,7 +34,6 @@ body {
     min-width: 100%;
     height: 32rem;
   }
-  
   
   /* CONTEÚDO DO MARKETING
   -------------------------------------------------- */
@@ -53,7 +51,6 @@ body {
     margin-left: .75rem;
   }
   
-  
   /* Featrurezinhas
   ------------------------- */
   
@@ -67,7 +64,6 @@ body {
     line-height: 1;
     letter-spacing: -.05rem;
   }
-  
   
   /* CSS RESPONSIVE
   -------------------------------------------------- */
