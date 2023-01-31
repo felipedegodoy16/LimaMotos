@@ -16,6 +16,13 @@ body {
     margin-bottom: 4rem;
   }
   
+  .carousel-inner{
+    height: 32rem;
+    position: relative;
+    bottom: 2.1rem;
+    padding-bottom: 50rem;
+  }
+
   /* Já que usamos posicionamento de imagens, precisaremos fazer alguns ajustes na legenda */
   .carousel-caption {
     bottom: 3rem;
@@ -25,8 +32,10 @@ body {
   /* Declaramos alturas, devido ao posicionamento do elemento img */
   .carousel-item {
     height: 32rem;
-    
+    position: relative;
+    top: 13rem;
   }
+
   .carousel-item > img {
     position: absolute;
     top: 0;
