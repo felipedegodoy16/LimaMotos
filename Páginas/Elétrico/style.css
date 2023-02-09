@@ -4,6 +4,37 @@ body{
     height: 5000px;
 }
 
+.nav-logo{
+    background-color: #03a351;
+    width: 100%;
+    height: 140px;
+    padding-left: 15rem;
+    position: fixed;
+    top:0;
+}
+
+.nav-logo img{
+    width: 170px;
+    height: 140px;
+    padding-left: 2rem;
+}
+
+.navbar{
+    position: fixed;
+    top: 150px;
+    color: #fff;
+}
+
+.navbar-nav{
+    font-size: 18px;
+}
+
+.navbar-nav a:hover{
+    transition: 0.5s;
+    background-color: #000;
+    color:rgb(255, 0, 0);
+}
+
 .thor img:hover{
     transition: 0.3s;
     color: #343434;
@@ -11,21 +42,21 @@ body{
 
 .conj-imagem{
     position: relative;
-    top: 5rem;
+    top: 22rem;
     left: 50rem;
     display: flex;
 }
 
 .conj-imagem1{
     position: relative;
-    top: 10rem;
+    top: 25rem;
     left: 50rem;    
     display: flex;
 }
 
 .name h1{
     position: relative;
-    top:3rem;
+    top: 18rem;
     left: 50rem;
     font-family: Rift;
     color: #008000;
