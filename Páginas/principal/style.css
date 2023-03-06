@@ -21,8 +21,9 @@ body{
 
 .navbar{
     position: fixed;
-    top: 150px;
+    top: 130px;
     color: #fff;
+    background-color: #fff;
 }
 
 .navbar-nav{
@@ -30,7 +31,12 @@ body{
 }
 
 .navbar-nav a:hover{
-    transition: 0.5s;
-    background-color: #000;
-    color:rgb(255, 0, 0);
+    transition: 0.3s;
+    background-color: #a9a9a9;
+    color:#fff;
+}
+
+.conteudo{
+    align-items: center;
+    text-align: center;
 }
