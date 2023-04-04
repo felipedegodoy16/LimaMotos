@@ -6,11 +6,13 @@ body{
 
 .nav-logo{
     background-color: #03a351;
-    width: 100%;
+    width: 100vw;
     height: 140px;
-    padding-left: 10rem;
     position: fixed;
     top:0;
+    z-index: 1000;
+    display: flex;
+    justify-content: start;
 }
 
 .nav-logo img{
