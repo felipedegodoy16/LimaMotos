@@ -2,7 +2,7 @@
     <div class="container-inline nav-logo">
         <img src="img/logo.png" alt="Logo">
     </div>
-    <nav class="navbar navbar-expand-md fixed-top">
+    <nav class="navbar navbar-expand-md fixed-top justify-content-lg-center d-flex">
         <div class="collapse navbar-collapse" id="navbarCollapse">
         <ul class="navbar-nav">
             <li class="nav-item">
